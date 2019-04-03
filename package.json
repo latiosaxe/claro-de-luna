@@ -1,0 +1,22 @@
+{
+  "name": "claro-de-luna",
+  "version": "1.0.0",
+  "description": "presskit",
+  "author": "latiosaxe",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/bulma": "^1.2.1",
+    "cross-env": "^5.2.0",
+    "jquery": "^3.3.1",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
